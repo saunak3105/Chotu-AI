@@ -1,0 +1,4 @@
+customtkinter
+vosk
+pyaudio
+pyttsx3
